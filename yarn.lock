@@ -16,9 +16,9 @@
     esutils "^2.0.2"
     js-tokens "^3.0.0"
 
-"@types/three@^0.89.12":
-  version "0.89.12"
-  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.89.12.tgz#cab29544bbdfbbc62257dd48bf921eb3dc0e055a"
+"@types/three@^0.91.1":
+  version "0.91.1"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.91.1.tgz#3153bf0869e4d26ad675e04ec2589a2a45502a8b"
   dependencies:
     "@types/webvr-api" "*"
 
